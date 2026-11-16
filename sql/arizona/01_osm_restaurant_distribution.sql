@@ -16,3 +16,5 @@ FROM
     pois
 WHERE
     fclass = 'restaurant';
+
+-- completed 
