@@ -1,12 +1,12 @@
-# Query 3
-# Which populated places in Utah are located 10 or more miles from the nearest hospital?
+-- Query 3
+-- Which populated places in Utah are located 10 or more miles from the nearest hospital?
 
-# Objective:
-# Identify and extract areas in Utah at that are located 10 or more miles from 
-# the nearest hospital based on population
+-- Objective:
+-- Identify and extract areas in Utah at that are located 10 or more miles from 
+-- the nearest hospital based on population
 
-#Expected Output
-#Table with 262 rows and 4 columns
+-- Expected Output
+-- Table with 262 rows and 4 columns
 
 select
 pl.name as populated_place,
