@@ -1,9 +1,9 @@
-# Query 2
-# How many healthcare facilities of each type are located within each county in utah?
+-- Query 2
+-- How many healthcare facilities of each type are located within each county in utah?
 
-#Objective:
-# Extract the number of healthcare facilities by county
-# Expected Outcome: Table with 66 rows and 4 columns
+-- Objective:
+-- Extract the number of healthcare facilities by county
+-- Expected Outcome: Table with 66 rows and 4 columns
 
 select 
 aa.name as county_name, 
